@@ -1,7 +1,7 @@
-# Clock-Project
+# SmartWatchUI
 Beginner level python project
 
-Aim is to emulate a digital watch
+Aim is to emulate a Smart watch
 
 
 Implemented primarily using python with the tkinter model and some concepts pertaining to object oriented programming
